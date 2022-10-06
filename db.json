@@ -1,0 +1,106 @@
+{
+  "movie": [
+    {
+      "id": 1,
+      "movieTitle": "Samaritan Girl (Samaria)",
+      "genre": "Drama"
+    }, {
+      "id": 2,
+      "movieTitle": "Tokyo Decadence (Topâzu)",
+      "genre": "Drama"
+    }, {
+      "id": 3,
+      "movieTitle": "Goldfinger",
+      "genre": "Action|Adventure|Thriller"
+    }, {
+      "id": 4,
+      "movieTitle": "Betrayed (True and the Brave, The)",
+      "genre": "Drama|Romance|Thriller|War"
+    }, {
+      "id": 5,
+      "movieTitle": "Robot Jox",
+      "genre": "Sci-Fi"
+    }, {
+      "id": 6,
+      "movieTitle": "The Hire: Powder Keg",
+      "genre": "Action"
+    }, {
+      "id": 7,
+      "movieTitle": "Because of Winn-Dixie",
+      "genre": "Children|Comedy|Drama"
+    }, {
+      "id": 8,
+      "movieTitle": "Maria Bamford: The Special Special Special!",
+      "genre": "Comedy"
+    }, {
+      "id": 9,
+      "movieTitle": "Adventures of Mary-Kate and Ashley, The: The Case of the Christmas Caper",
+      "genre": "Children|Musical|Mystery"
+    }, {
+      "id": 10,
+      "movieTitle": "Dreams of  a Life",
+      "genre": "Documentary"
+    }, {
+      "id": 11,
+      "movieTitle": "Company",
+      "genre": "Drama|Musical"
+    }, {
+      "id": 12,
+      "movieTitle": "Young Doctors in Love",
+      "genre": "Comedy"
+    }, {
+      "id": 13,
+      "movieTitle": "13 Beloved (13 game sayawng)",
+      "genre": "Horror|Mystery|Thriller"
+    }, {
+      "id": 14,
+      "movieTitle": "Veteran, The",
+      "genre": "Action|Thriller"
+    }, {
+      "id": 15,
+      "movieTitle": "Hallelujah!",
+      "genre": "Drama|Musical"
+    }, {
+      "id": 16,
+      "movieTitle": "Den tatuerade änkan (Tattooed Widow, The) ",
+      "genre": "Comedy|Drama|Romance"
+    }, {
+      "id": 17,
+      "movieTitle": "Taken 2",
+      "genre": "Action|Crime|Drama|Thriller"
+    }, {
+      "id": 18,
+      "movieTitle": "Russian Dolls (Les poupées russes)",
+      "genre": "Comedy|Romance"
+    }, {
+      "id": 19,
+      "movieTitle": "Gruffalo, The",
+      "genre": "Adventure|Animation|Children|Comedy|Drama"
+    }, {
+      "id": 20,
+      "movieTitle": "American Pie",
+      "genre": "Comedy|Romance"
+    }, {
+      "id": 21,
+      "movieTitle": "Ghost and Mrs. Muir, The",
+      "genre": "Drama|Fantasy|Romance"
+    }, {
+      "id": 22,
+      "movieTitle": "Into the Woods",
+      "genre": "Adventure|Comedy|Fantasy|Musical"
+    }, {
+      "id": 23,
+      "movieTitle": "Five Senses, The",
+      "genre": "Drama"
+    }, {
+      "id": 24,
+      "movieTitle": "Bang Bang Club, The",
+      "genre": "Drama"
+    }, {
+      "id": 25,
+      "movieTitle": "Night Must Fall",
+      "genre": "Thriller"
+    }
+
+  ]
+}
